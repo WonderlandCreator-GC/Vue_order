@@ -47,7 +47,7 @@ export default {
       color #fff
       text-align center
       .header_title_text
-        font-size 20px
+        font-size 18px
         color #fff
         display block
     .header_login
