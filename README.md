@@ -13,4 +13,22 @@
 &nbsp;&nbsp;&nbsp;（6）使用 vue-lazyload 实现图片惰加载  
 &nbsp;&nbsp;&nbsp;（7）使用 mockjs 模拟后台数据接口（仅mock商家详情页数据）
 
-## 3.项目预览
+## 3.项目预览  
+（1）主页  
+&nbsp;&nbsp;&nbsp;![home](/shows/1.home)  
+（2）搜索页面  
+&nbsp;&nbsp;&nbsp;![search](/shows/2.search)  
+（3）订单页面   
+&nbsp;&nbsp;&nbsp;![order](/shows/3.order)    
+（4）用户页面  
+&nbsp;&nbsp;&nbsp;![profile](/shows/4.profile)    
+（5）商家详情页面    
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;商品列表页  
+  &nbsp;&nbsp;&nbsp;![shopGoods](/shows/5.shopGoods)    
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;商家评价页  
+  &nbsp;&nbsp;&nbsp;![shopRatings](/shows/5.shopRatings)  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;商家详情页  
+  &nbsp;&nbsp;&nbsp;![shopInfo](/shows/5.shopInfo)  
+（6）登录页面  
+&nbsp;&nbsp;&nbsp;![login1](/shows/6.login1)
+&nbsp;&nbsp;&nbsp;![login2](/shows/6.login2)
