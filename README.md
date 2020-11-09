@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;（4）使用 better-scroll 实现商家列表页面纵向滑动效果及商家详情页的横向滑动（结合watch加nextTick来合理时机创建better-scroll实例）  
 &nbsp;&nbsp;&nbsp;（5）使用 mint-ui 组件库构建组件的部分界面（如弹出提出框，退出登录按钮等）   
 &nbsp;&nbsp;&nbsp;（6）使用 vue-lazyload 实现图片惰加载  
-&nbsp;&nbsp;&nbsp;（7）使用 mockjs 模拟后台数据接口（仅mock商家详情页数据）
+&nbsp;&nbsp;&nbsp;（7）使用 mockjs 模拟后台数据接口
 
 ## 3.项目预览  
 （1）主页  
